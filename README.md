@@ -28,7 +28,7 @@ The program interacts with the user by:
 
 1. **Run the program** using Python:
    ```bash
-   python discount_calculator.py
+   flows.py
    ```
 
 2. **Enter the original price** of the item when prompted.
